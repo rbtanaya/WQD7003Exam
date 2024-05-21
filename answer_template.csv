@@ -1,0 +1,79 @@
+Q1a: Total Sales Revenue for Each Product:,
+Product_Name,Total_Revenue
+Product_A,PUT ANSWER HERE
+Product_B,PUT ANSWER HERE
+Product_C,PUT ANSWER HERE
+Product_D,PUT ANSWER HERE
+Product_E,PUT ANSWER HERE
+Product_F,PUT ANSWER HERE
+Product_G,PUT ANSWER HERE
+Product_H,PUT ANSWER HERE
+Product_I,PUT ANSWER HERE
+,
+,
+Q1b: Top 5 Best-Selling Products:,
+Product_Name,Total_Revenue
+Product_G,PUT ANSWER HERE
+Product_H,PUT ANSWER HERE
+Product_I,PUT ANSWER HERE
+Product_F,PUT ANSWER HERE
+Product_A,PUT ANSWER HERE
+,
+,
+Q1c: Total Quantity Sold for Each Product:,
+Product_Name,Total Quantity Sold
+Product_A,PUT ANSWER HERE
+Product_B,PUT ANSWER HERE
+Product_C,PUT ANSWER HERE
+Product_D,PUT ANSWER HERE
+Product_E,PUT ANSWER HERE
+Product_F,PUT ANSWER HERE
+Product_G,PUT ANSWER HERE
+Product_H,PUT ANSWER HERE
+Product_I,PUT ANSWER HERE
+,
+,
+Q1d: Average Unit Price for Each Product:,
+Product_Name,Average Unit Price
+Product_A,PUT ANSWER HERE
+Product_B,PUT ANSWER HERE
+Product_C,PUT ANSWER HERE
+Product_D,PUT ANSWER HERE
+Product_E,PUT ANSWER HERE
+Product_F,PUT ANSWER HERE
+Product_G,PUT ANSWER HERE
+Product_H,PUT ANSWER HERE
+Product_I,PUT ANSWER HERE
+,
+,
+Q1e: Number of transactions made for each product:,
+Product_Name,Number of transactions
+Product_A,PUT ANSWER HERE
+Product_B,PUT ANSWER HERE
+Product_C,PUT ANSWER HERE
+Product_D,PUT ANSWER HERE
+Product_E,PUT ANSWER HERE
+Product_F,PUT ANSWER HERE
+Product_G,PUT ANSWER HERE
+Product_H,PUT ANSWER HERE
+Product_I,PUT ANSWER HERE
+,
+,
+Q1f: Minimum unit price among all products:,
+Min unit price,
+PUT ANSWER HERE,
+,
+"Q2b: 
+Day with the Highest Total Sales Revenue:",
+Date,Total_Sales_Revenue
+PUT ANSWER HERE,PUT ANSWER HERE
+,
+,
+Q3a: Number of transactions made on weekends,
+Number of transaction,
+PUT ANSWER HERE,
+,
+,
+Q3b: Number of transactions made on weekdays,
+Number of transaction,
+PUT ANSWER HERE,
